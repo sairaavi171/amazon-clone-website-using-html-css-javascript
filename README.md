@@ -1,1 +1,1 @@
-# amazon-clone-website-using-html-css-javascript
+# amazon-clone-website-using-html-css.
